@@ -1,0 +1,11 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">DiagnoU</string>
+    <string name="hi">Welcome to Diagno U</string>
+    <string name="nxt">It\'s important to monitor your Menstruation Cycle</string>
+    <string name="nxt2">Additionaly, don\'t forget to take your medication as prescribed</string>
+    <string name="btn1">Track Period Status</string>
+    <string name="btn2">Track Medication</string>
+    <string name="desc">TO YOUR HEALTH</string>
+</resources>
